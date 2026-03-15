@@ -1,5 +1,7 @@
 # fukui-kanko-hackathon-20231216
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 ## Overview
 A hackathon "Create Next-Generation Tourism with Civic Tech" hosted by the Fukui Tourism DX Promotion Marketing Data Consortium and Code for JAPAN.
 
